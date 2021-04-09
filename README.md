@@ -9,4 +9,11 @@ pogressBar Horizontal
         }).start()
 
 
+## How to test
+
+* If you want to test it, please be sure to have the [SplashScreen](https://github.com/bedsongultom/SplashScreen.github.io) running.
+
+```
+git clone https://github.com/bedsongultom/SplashScreen.github.io
+
 
