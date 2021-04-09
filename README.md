@@ -2,7 +2,7 @@
 This is an simple application of splash screen by using kotlin whereby the component uses 
 pogressBar Horizontal
 
- Thread(Runnable {
+ ``` Thread(Runnable {
             .
             ..
             ...
@@ -11,9 +11,9 @@ pogressBar Horizontal
 
 ## How to test
 
-* If you want to test it, please be sure to have the [SplashScreen](https://github.com/bedsongultom/SplashScreen.github.io) running.
+* If you want to test it, please be sure to have the [SplashScreen](https://github.com/bedsongultom/SplashScreen.git) running.
 
 ```
-git clone https://github.com/bedsongultom/SplashScreen.github.io
+git clone https://github.com/bedsongultom/SplashScreen.git 
 
 
