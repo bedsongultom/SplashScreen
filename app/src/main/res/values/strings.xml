@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="app_product_by">Bedson Gultom</string>
+    <string name="app_github">bedsongultom.github.io</string>
+    <string name="app_welcome">WELCOME</string>
+
+</resources>
