@@ -1,3 +1,6 @@
 # SplashScreen
-C
+This is an simple application of splash screen by using kotlin whereby the component uses 
+pogressBar Horizontal
+
+
 
